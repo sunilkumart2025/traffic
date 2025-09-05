@@ -1,0 +1,29 @@
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+.custom-marker {
+  background: none !important;
+  border: none !important;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.leaflet-popup-content {
+  margin: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.leaflet-popup-content h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.leaflet-popup-content p {
+  margin: 5px 0;
+  color: #666;
+}
